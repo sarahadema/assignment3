@@ -18,6 +18,7 @@ html {
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
     
+    font-family: ITC Avant Garde Gothic, Helvetica, sans-serif; 
     font-size: 100%;
 }
 
@@ -25,3 +26,59 @@ img {
 	width: 100%;
     display: block;
 }
+
+body {
+    background-color: mediumaquamarine;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    overflow: hidden;
+}
+
+.logo {
+    height: 3.5rem;
+    width: auto;
+    padding: .5rem 5%;
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+
+.topimage {
+    background-image: url(../images/beachscene.jpg);
+    background-color: lightseagreen;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 40rem;
+}
+
+div img {
+    margin:0;
+    padding: 1rem;
+    height: 8rem;
+    width: auto;
+}
+
+.promotion {
+    background-image: url(../images/surfing.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 2rem;
+    background-color: white;
+    text-transform: uppercase;
+    margin: 6rem 0;
+    padding: .25rem 5%;
+}
+    
+    
+    
+    
+    
+    
