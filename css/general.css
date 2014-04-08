@@ -98,8 +98,9 @@ header {
 }
 
 .promotion {
+    margin:1rem 5%;
     background-image: url(../images/surfing.jpg);
-    background-size: 40rem;
+    background-size: 50rem;
     background-repeat: no-repeat;
     background-position: center;
     overflow: hidden;
