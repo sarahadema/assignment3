@@ -133,10 +133,12 @@ header {
 
 .women {
     background-image: url("../images/women-swimwear.jpg");
-    background-size: 50rem;
+    background-size: 30rem;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: top center;
     overflow: hidden;
+    margin: 1rem 5%;
+    
 }
 
 .women h1 {
@@ -148,10 +150,76 @@ header {
     margin: 5rem 0;
     opacity: 0.7;
     padding: 1.75rem 5%;
+    text-decoration: none;
 }
 
+ .men {
+    margin: 1rem 5%;
+    background-image: url("../images/mens-short.jpg");
+    background-size: 30rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}
+
+.men h1 {
+    font-weight: bold;
+    font-size: 2rem;
+    color: white;
+    background-color: lightseagreen;
+    text-transform: uppercase;
+    margin: 5rem 0;
+    opacity; 0.7;
+    padding: 1.75rem 5%;
+}
+
+ .about {
+    margin: 1rem 5%;
+    background-image: url("../images/about.jpg");
+    background-size: 30rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}
+
+.about h1 {
+    font-weight: bold;
+    font-size: 2rem;
+    color: white;
+    background-color: lightseagreen;
+    text-transform: uppercase;
+    margin: 5rem 0;
+    opacity; 0.7;
+    padding: 1.75rem 5%;
+}    
     
-    
-    
+ .footer {
+    background-color: lightseagreen;
+    overflow: hidden;
+    margin: 0;
+    padding: 1rem 6% 5rem;
+}
+
+.footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footer a,
+.footer a:linked,
+.footer a:visited {
+    color: white;
+    text-decoration:none;
+    font-size:.875rem;
+    line-height: 1.5rem;
+}
+
+.socialmedia {
+    margin:0;
+    padding:0;
+
+}
+
     
     
