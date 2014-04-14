@@ -124,7 +124,7 @@ header {
 }
 
 .women {
-    background-image: url("../images/women-swimwear.jpg");
+    background-image: url("../images/womens-1.jpg");
     background-size: 30rem;
     background-repeat: no-repeat;
     background-position: top center;
@@ -133,7 +133,7 @@ header {
     
 }
 
-.women h1 {
+.women h2 {
     font-weight: bold;
     font-size: 2rem;
     color: white;
@@ -141,7 +141,7 @@ header {
     text-transform: uppercase;
     margin: 5rem 0;
     padding: 1.75rem 5%;
-    text-decoration: none;
+   text-decoration: none;
 }
 
  .men {
@@ -153,7 +153,7 @@ header {
     overflow: hidden;
 }
 
-.men h1 {
+.men h2 {
     font-weight: bold;
     font-size: 2rem;
     color: white;
@@ -173,7 +173,7 @@ header {
     overflow: hidden;
 }
 
-.about h1 {
+.about h2 {
     font-weight: bold;
     font-size: 2rem;
     color: white;
@@ -191,6 +191,37 @@ p {
     font-weight: normal;
     font-size: 1rem;
 }
+
+h2{
+    font-weight: normal;
+    font-size: 2rem;
+    text-transform: uppercase;
+    background-color: lightseagreen;
+    margin: 0;
+    padding: 1rem 5%;
+    
+}
+
+.shopbucket {
+    overflow: hidden;
+    margin: 0 0 1.5;
+    padding: 0;
+}
+
+.shopbucket img {
+    float: left;
+    width: 45%;
+    margin: 0 5% 0 0;
+    padding: 0;
+}
+
+.shopbucket figcaption {
+    float: right;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+}
+
 
  .footer {
     background-color: lightseagreen;
