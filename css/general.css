@@ -131,7 +131,7 @@ header {
 
 .women {
     background-image: url("../images/womens-1.jpg");
-    background-size: 30rem;
+    background-size: 100%;
     background-repeat: no-repeat;
     background-position: top center;
     overflow: hidden;
@@ -152,7 +152,7 @@ header {
  .men {
     margin: 1rem 5%;
     background-image: url("../images/mens-short.jpg");
-    background-size: 30rem;
+    background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
     overflow: hidden;
@@ -172,7 +172,7 @@ header {
  .about {
     margin: 1rem 5%;
     background-image: url("../images/about.jpg");
-    background-size: 30rem;
+    background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
     overflow: hidden;
@@ -233,7 +233,7 @@ h2{
     margin: 0;
     padding: 1rem 6% 5rem;
     text-decoration: none;
-}
+ }
 
 .footer ul {
     list-style-type: none;
