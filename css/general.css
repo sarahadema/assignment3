@@ -18,7 +18,7 @@ html {
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
     
-    font-family: ITC Avant Garde Gothic, Helvetica, sans-serif; 
+    font-family:Helvetica, Arial, sans-serif; 
     font-size: 100%;
 }
 
@@ -107,6 +107,7 @@ header {
 }
 
 .promotion h1 {
+    font-family:Oleo Script, cursive;
     font-weight: bold;
     font-size: 2rem;
     color: white;
@@ -227,7 +228,7 @@ h2{
     margin: 0;
     padding: 0;
     text-transform: uppercase;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 2rem;
 }
 
