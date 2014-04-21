@@ -126,7 +126,7 @@ header {
 .promotion {
     margin:05%;
     background-image: url(../images/surfing.jpg);
-    background-size: 100%;
+    background-size: 50rem;
     background-repeat: no-repeat;
     background-position: center;
     overflow: hidden;
