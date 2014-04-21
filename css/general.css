@@ -18,7 +18,7 @@ html {
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
     
-    font-family:Helvetica, Arial, sans-serif; 
+    font-family:Verdana,Helvetica, sans-serif; 
     font-size: 100%;
 }
 
@@ -113,7 +113,7 @@ header {
 }
 
 .promotion h1 {
-    font-family: "Oleo Script", cursive;
+    font-family: 'Oleo Script', cursive;
     font-weight: bold;
     font-size: 2rem;
     color: white;
@@ -144,7 +144,6 @@ header {
     background-position: top center;
     overflow: hidden;
     margin: 1rem 5%;
-    
 }
 
 .women h2 {
@@ -217,9 +216,8 @@ h2{
 
 .shopbucket {
     overflow: hidden;
-    margin:1rem 0;
+    margin: 0;
     padding: 0;
-    background-color: mediumaquamarine;
 }
 
 .shopbucket img {
@@ -237,7 +235,6 @@ h2{
     text-transform: uppercase;
     font-weight: bold;
     font-size: 2rem;
-   
 }
 
  .footer {
