@@ -107,14 +107,14 @@ header {
 }
 
 .promotion h1 {
-    font-family:Oleo Script, cursive;
+    font-family: "Oleo Script", cursive;
     font-weight: bold;
     font-size: 2rem;
     color: white;
     background-color:rgba(32,178,170,.8);
     text-transform: uppercase;
     margin: 5rem 0;
-    padding: 1.75rem 5%;
+    padding: 1.75rem 5%; 
 }
  
 .promotion p {
