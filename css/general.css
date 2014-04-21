@@ -246,7 +246,7 @@ h2{
 }
 
 .footer a,
-.footer a:linked,
+.footer a:link,
 .footer a:visited {
     color: white;
     text-decoration:none;
