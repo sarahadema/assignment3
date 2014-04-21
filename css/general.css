@@ -216,7 +216,7 @@ h2{
 
 .shopbucket {
     overflow: hidden;
-    margin: 1rem 0 1.5rem;
+    margin:1rem 0;
     padding: 0;
     background-color: mediumaquamarine;
 }
@@ -225,7 +225,7 @@ h2{
     float: left;
     width: 45%;
     margin: 2rem 5% 0 0;
-    padding: 0;
+    padding: 0.5rem 0;
 }
 
 .shopbucket figcaption {
