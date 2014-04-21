@@ -46,10 +46,11 @@ p   {
 
 header {
     background-image: url("../images/beachscene.jpg");
-    background-size: 50rem;
+    background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
     overflow: hidden;
+    margin: 0 0 1rem 0;
 }
 
 .logo {
@@ -103,9 +104,9 @@ header {
 }
 
 .promotion {
-    margin:1rem 5%;
+    margin:05%;
     background-image: url(../images/surfing.jpg);
-    background-size: 50rem;
+    background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
     overflow: hidden;
